@@ -2,7 +2,7 @@ import React, { useState } from 'react';
 import { createRoot } from 'react-dom/client';
 import '../site/styles.scss';
 import merchants from '../../merchants.json';
-import percentageMap from '../../percentage-map.json';
+import { useLocalStorage } from 'react-use';
 
 const merchantsData = Object.entries(merchants).sort((lhs, rhs) => {
   if (lhs[0] < rhs[0]) return -1;
@@ -17,13 +17,21 @@ function App() {
 
   const [merchantName, { mercantileSkill, luck }] = selectedEntry;
 
-  const [playerMercantileSkill, setPlayerMercantileSkill] = useState(10);
+  const [playerMercantileSkill, setPlayerMercantileSkill] = useLocalStorage(
+    'playerMercantileSkill',
+    10,
+  );
 
-  const [playerLuck, setPlayerLuck] = useState(10);
+  const [playerLuck, setPlayerLuck] = useLocalStorage('playerLuck', 50);
 
-  const [disposition, setDisposition] = useState(40);
+  const [disposition, setDisposition] = useLocalStorage('disposition', 40);
 
-  const modifiedDisposition = 0.5 * Math.floor((0.4 * (disposition - 10)) / 4);
+  const [minimumSellValue, setMinimumSellValue] = useLocalStorage(
+    'minimumSellValue',
+    40,
+  );
+
+  const modifiedDisposition = 0.5 * Math.floor((0.4 * (disposition! - 10)) / 4);
 
   const modifiedMerchantSkill = Math.min(
     Number(mercantileSkill) + 0.4 * (Number(luck) - 50),
@@ -31,7 +39,7 @@ function App() {
   );
 
   const modifiedPlayerSkill = Math.min(
-    playerMercantileSkill + 0.4 * (playerLuck - 50),
+    playerMercantileSkill! + 0.4 * (playerLuck! - 50),
     100,
   );
 
@@ -40,10 +48,6 @@ function App() {
       (100 + modifiedPlayerSkill - modifiedMerchantSkill) / 10) /
       0.55,
   );
-
-  const minimumPercentage = (percentageMap as Record<number, string>)[
-    modifiedMerchantSkill
-  ];
 
   return (
     <div className='container is-max-tablet fixed-grid'>
@@ -72,7 +76,10 @@ function App() {
         <input
           type='number'
           defaultValue={playerMercantileSkill}
-          onChange={(e) => setPlayerMercantileSkill(Number(e.target.value))}
+          onChange={(e) => {
+            document.cookie;
+            setPlayerMercantileSkill(Number(e.target.value));
+          }}
         ></input>
 
         <label>Luck level</label>
@@ -89,9 +96,34 @@ function App() {
           onChange={(e) => setDisposition(Number(e.target.value))}
         ></input>
 
+        <label>Minimum sell % value</label>
+        <input
+          type='number'
+          defaultValue={minimumSellValue}
+          onChange={(e) => setMinimumSellValue(Number(e.target.value))}
+        ></input>
+
         <label>Optimal slider value</label>
-        <p>{Number(minimumPercentage) + bestValueOffset}%</p>
+        <p>{minimumSellValue! + bestValueOffset}%</p>
       </fieldset>
+      <div className='content'>
+        <h2>Usage</h2>
+        <ol>
+          <li>Select the merchant you are trading with</li>
+          <li>Input your Mercantile skill in the "Mercantile skill" field</li>
+          <li>Input your Luck level in the "Luck level" field"</li>
+          <li>
+            Input the merchant's disposition in the "Disposition towards player"
+            field
+          </li>
+          <li>
+            Move the haggle slider all the way to the left, then input the
+            displayed value in the "Minimum sell % value" field
+          </li>
+        </ol>
+        The "Optimal slider value" will automatically update as you update the
+        rest of the fields
+      </div>
     </div>
   );
 }
