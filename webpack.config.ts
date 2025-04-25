@@ -2,7 +2,6 @@ import webpack from 'webpack';
 import * as webpackDevServer from 'webpack-dev-server';
 import path from 'node:path';
 import HtmlWebpackPlugin from 'html-webpack-plugin';
-import MiniCssExtractPlugin from 'mini-css-extract-plugin';
 
 const config: webpack.Configuration = {
   mode: 'production',
