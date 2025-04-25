@@ -1,0 +1,482 @@
+{
+    "Dahlia Rackham": {
+        "mercantileSkill": "56",
+        "luck": "50"
+    },
+    "Enilroth": {
+        "mercantileSkill": "30",
+        "luck": "50"
+    },
+    "Felen Relas": {
+        "mercantileSkill": "30",
+        "luck": "55"
+    },
+    "Maenlorn": {
+        "mercantileSkill": "30",
+        "luck": "50"
+    },
+    "Norbert Lelles": {
+        "mercantileSkill": "40",
+        "luck": "50"
+    },
+    "Orrin": {
+        "mercantileSkill": "90",
+        "luck": "60"
+    },
+    "Varel Morvayn": {
+        "mercantileSkill": "40",
+        "luck": "50"
+    },
+    "Wilbur": {
+        "mercantileSkill": "30",
+        "luck": "50"
+    },
+    "Ardaline": {
+        "mercantileSkill": "40",
+        "luck": "55"
+    },
+    "Bogrum gro-Galash": {
+        "mercantileSkill": "30",
+        "luck": "50"
+    },
+    "Daenlin": {
+        "mercantileSkill": "40",
+        "luck": "50"
+    },
+    "Gilgondorin": {
+        "mercantileSkill": "40",
+        "luck": "50"
+    },
+    "Luciana Galena": {
+        "mercantileSkill": "80",
+        "luck": "60"
+    },
+    "Nilawen": {
+        "mercantileSkill": "40",
+        "luck": "50"
+    },
+    "Nordinor": {
+        "mercantileSkill": "30",
+        "luck": "50"
+    },
+    "Tadrose Helas": {
+        "mercantileSkill": "30",
+        "luck": "50"
+    },
+    "Ungarion": {
+        "mercantileSkill": "40",
+        "luck": "50"
+    },
+    "Fjotreid": {
+        "mercantileSkill": "40",
+        "luck": "50"
+    },
+    "Hafid Hollowleg": {
+        "mercantileSkill": "40",
+        "luck": "50"
+    },
+    "Karinnarre": {
+        "mercantileSkill": "60",
+        "luck": "50"
+    },
+    "Olav": {
+        "mercantileSkill": "30",
+        "luck": "50"
+    },
+    "Olfand": {
+        "mercantileSkill": "60",
+        "luck": "50"
+    },
+    "Ongar the World-Weary": {
+        "mercantileSkill": "60",
+        "luck": "60"
+    },
+    "Selena Orania": {
+        "mercantileSkill": "40",
+        "luck": "55"
+    },
+    "Skjorta": {
+        "mercantileSkill": "60",
+        "luck": "50"
+    },
+    "Suurootan": {
+        "mercantileSkill": "36",
+        "luck": "50"
+    },
+    "Borba gra-Uzgash": {
+        "mercantileSkill": "60",
+        "luck": "50"
+    },
+    "Dark Brotherhood Murderer Mage": {
+        "mercantileSkill": "5",
+        "luck": "50"
+    },
+    "Dervera Romalen": {
+        "mercantileSkill": "30",
+        "luck": "50"
+    },
+    "Eilonwy": {
+        "mercantileSkill": "40",
+        "luck": "55"
+    },
+    "M'raaj-Dar": {
+        "mercantileSkill": "6",
+        "luck": "50"
+    },
+    "Mach-Na": {
+        "mercantileSkill": "80",
+        "luck": "50"
+    },
+    "Magra gro-Naybek": {
+        "mercantileSkill": "30",
+        "luck": "50"
+    },
+    "Mariana Ancharia": {
+        "mercantileSkill": "40",
+        "luck": "50"
+    },
+    "Tertia Viducia": {
+        "mercantileSkill": "60",
+        "luck": "50"
+    },
+    "Angalmo": {
+        "mercantileSkill": "40",
+        "luck": "55"
+    },
+    "Emfrid": {
+        "mercantileSkill": "30",
+        "luck": "50"
+    },
+    "Estelle Renoit": {
+        "mercantileSkill": "30",
+        "luck": "50"
+    },
+    "Rasheda": {
+        "mercantileSkill": "80",
+        "luck": "50"
+    },
+    "Sabine Laul": {
+        "mercantileSkill": "30",
+        "luck": "50"
+    },
+    "Seed-Neeus": {
+        "mercantileSkill": "40",
+        "luck": "50"
+    },
+    "Talasma": {
+        "mercantileSkill": "40",
+        "luck": "50"
+    },
+    "Augusta Calidia": {
+        "mercantileSkill": "30",
+        "luck": "50"
+    },
+    "Aurelinwae": {
+        "mercantileSkill": "6",
+        "luck": "50"
+    },
+    "Calindil": {
+        "mercantileSkill": "60",
+        "luck": "50"
+    },
+    "Claudette Perrick": {
+        "mercantileSkill": "80",
+        "luck": "55"
+    },
+    "Delos Fandas": {
+        "mercantileSkill": "40",
+        "luck": "50"
+    },
+    "Edgar Vautrine": {
+        "mercantileSkill": "40",
+        "luck": "50"
+    },
+    "Ernest Manis": {
+        "mercantileSkill": "30",
+        "luck": "50"
+    },
+    "Fathis Ules": {
+        "mercantileSkill": "100",
+        "luck": "60"
+    },
+    "Hamlof Red-Tooth": {
+        "mercantileSkill": "40",
+        "luck": "50"
+    },
+    "Jensine": {
+        "mercantileSkill": "30",
+        "luck": "55"
+    },
+    "Julienne Fanis": {
+        "mercantileSkill": "80",
+        "luck": "55"
+    },
+    "Ley Marillin": {
+        "mercantileSkill": "40",
+        "luck": "50"
+    },
+    "Luther Broad": {
+        "mercantileSkill": "40",
+        "luck": "50"
+    },
+    "Maro Rufus": {
+        "mercantileSkill": "40",
+        "luck": "50"
+    },
+    "Nilphas Omellian": {
+        "mercantileSkill": "40",
+        "luck": "50"
+    },
+    "Ogier Georick": {
+        "mercantileSkill": "40",
+        "luck": "55"
+    },
+    "Ormil": {
+        "mercantileSkill": "40",
+        "luck": "50"
+    },
+    "Palonirya": {
+        "mercantileSkill": "80",
+        "luck": "50"
+    },
+    "Phintias": {
+        "mercantileSkill": "80",
+        "luck": "50"
+    },
+    "Rindir": {
+        "mercantileSkill": "30",
+        "luck": "50"
+    },
+    "Rohssan": {
+        "mercantileSkill": "80",
+        "luck": "50"
+    },
+    "Sergius Verus": {
+        "mercantileSkill": "60",
+        "luck": "50"
+    },
+    "Shady Sam": {
+        "mercantileSkill": "51",
+        "luck": "50"
+    },
+    "Tertullian Verus": {
+        "mercantileSkill": "60",
+        "luck": "50"
+    },
+    "Thoronir": {
+        "mercantileSkill": "40",
+        "luck": "50"
+    },
+    "Urbul gro-Orkulg": {
+        "mercantileSkill": "40",
+        "luck": "50"
+    },
+    "Varnado": {
+        "mercantileSkill": "60",
+        "luck": "50"
+    },
+    "Velus Hosidius": {
+        "mercantileSkill": "60",
+        "luck": "50"
+    },
+    "Viator Accius": {
+        "mercantileSkill": "60",
+        "luck": "50"
+    },
+    "Willet": {
+        "mercantileSkill": "40",
+        "luck": "50"
+    },
+    "Batul gra-Sharob": {
+        "mercantileSkill": "100",
+        "luck": "50"
+    },
+    "Sigrid": {
+        "mercantileSkill": "100",
+        "luck": "55"
+    },
+    "Alves Uvenim": {
+        "mercantileSkill": "40",
+        "luck": "55"
+    },
+    "Bugak gro-Bol": {
+        "mercantileSkill": "60",
+        "luck": "50"
+    },
+    "Dar Jee": {
+        "mercantileSkill": "70",
+        "luck": "60"
+    },
+    "Elsynia": {
+        "mercantileSkill": "60",
+        "luck": "50"
+    },
+    "Gundalas": {
+        "mercantileSkill": "60",
+        "luck": "50"
+    },
+    "S'drassa": {
+        "mercantileSkill": "6",
+        "luck": "60"
+    },
+    "Shuravi": {
+        "mercantileSkill": "40",
+        "luck": "50"
+    },
+    "Tun-Zeeus": {
+        "mercantileSkill": "40",
+        "luck": "50"
+    },
+    "Witseidutsei": {
+        "mercantileSkill": "30",
+        "luck": "50"
+    },
+    "Agnete the Pickled": {
+        "mercantileSkill": "80",
+        "luck": "50"
+    },
+    "Erina Jeranus": {
+        "mercantileSkill": "40",
+        "luck": "50"
+    },
+    "Falanu Hlaalu": {
+        "mercantileSkill": "40",
+        "luck": "55"
+    },
+    "Gunder": {
+        "mercantileSkill": "40",
+        "luck": "50"
+    },
+    "Mog gra-Mogakh": {
+        "mercantileSkill": "30",
+        "luck": "50"
+    },
+    "Sinderion": {
+        "mercantileSkill": "8",
+        "luck": "60"
+    },
+    "Abhuki": {
+        "mercantileSkill": "80",
+        "luck": "50"
+    },
+    "Andreas Draconis": {
+        "mercantileSkill": "50",
+        "luck": "50"
+    },
+    "Candice Corgine": {
+        "mercantileSkill": "30",
+        "luck": "50"
+    },
+    "Christophe Marane": {
+        "mercantileSkill": "50",
+        "luck": "50"
+    },
+    "Davela Hlaren": {
+        "mercantileSkill": "50",
+        "luck": "50"
+    },
+    "Engorm": {
+        "mercantileSkill": "25",
+        "luck": "55"
+    },
+    "Etira Moslin": {
+        "mercantileSkill": "100",
+        "luck": "50"
+    },
+    "Foroch": {
+        "mercantileSkill": "50",
+        "luck": "50"
+    },
+    "Jak Silver": {
+        "mercantileSkill": "5",
+        "luck": "50"
+    },
+    "Khafiz": {
+        "mercantileSkill": "48",
+        "luck": "55"
+    },
+    "Kirsten": {
+        "mercantileSkill": "30",
+        "luck": "50"
+    },
+    "Kovan Kren": {
+        "mercantileSkill": "5",
+        "luck": "50"
+    },
+    "Malene": {
+        "mercantileSkill": "50",
+        "luck": "50"
+    },
+    "Manheim Maulhand": {
+        "mercantileSkill": "30",
+        "luck": "50"
+    },
+    "Melliwin": {
+        "mercantileSkill": "6",
+        "luck": "50"
+    },
+    "Nerussa": {
+        "mercantileSkill": "30",
+        "luck": "50"
+    },
+    "Niels": {
+        "mercantileSkill": "40",
+        "luck": "50"
+    },
+    "Rowley Eardwulf": {
+        "mercantileSkill": "44",
+        "luck": "50"
+    },
+    "S'thasa": {
+        "mercantileSkill": "30",
+        "luck": "50"
+    },
+    "Sergius Turrianus": {
+        "mercantileSkill": "20",
+        "luck": "50"
+    },
+    "Tahm Blackwell": {
+        "mercantileSkill": "44",
+        "luck": "60"
+    },
+    "Vlanhonder Moslin": {
+        "mercantileSkill": "40",
+        "luck": "50"
+    },
+    "Dumag gro-Bonk": {
+        "mercantileSkill": "34",
+        "luck": "50"
+    },
+    "Raven Biter": {
+        "mercantileSkill": "44",
+        "luck": "50"
+    },
+    "Sontaire": {
+        "mercantileSkill": "34",
+        "luck": "50"
+    },
+    "Tilse Areleth": {
+        "mercantileSkill": "44",
+        "luck": "50"
+    },
+    "Ahjazda": {
+        "mercantileSkill": "6",
+        "luck": "50"
+    },
+    "Cutter": {
+        "mercantileSkill": "34",
+        "luck": "50"
+    },
+    "Earil": {
+        "mercantileSkill": "6",
+        "luck": "50"
+    },
+    "Sickly Bernice": {
+        "mercantileSkill": "44",
+        "luck": "50"
+    },
+    "Dredhwen": {
+        "mercantileSkill": "50",
+        "luck": "50"
+    }
+}

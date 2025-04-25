@@ -1,0 +1,6 @@
+@use "~bulma/bulma";
+
+.calculator-container {
+    border: 1px solid var(--bulma-info-on-scheme);
+    border-radius: 10px;
+}
