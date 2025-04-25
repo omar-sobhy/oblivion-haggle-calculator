@@ -1,4 +1,4 @@
-FROM node:23-alpine as builder
+FROM node:22-alpine3.20 as builder
 
 WORKDIR /var/app
 
@@ -15,3 +15,5 @@ RUN npm run build
 FROM caddy:2.10.0-alpine
 
 COPY --from=builder /var/app/dist /srv
+
+EXPOSE 80
