@@ -478,5 +478,117 @@
     "Dredhwen": {
         "mercantileSkill": "50",
         "luck": "50"
+    },
+    "Marc Gulitte": {
+        "mercantileSkill": "50",
+        "luck": "70"
+    },
+    "Selene Duronia": {
+        "mercantileSkill": "40",
+        "luck": "55"
+    },
+    "Thaurron": {
+        "mercantileSkill": "15",
+        "luck": "50"
+    },
+    "Trevaia": {
+        "mercantileSkill": "10",
+        "luck": "50"
+    },
+    "Delphine Jend": {
+        "mercantileSkill": "6",
+        "luck": "50"
+    },
+    "Eris Senim": {
+        "mercantileSkill": "6",
+        "luck": "50"
+    },
+    "Ita Rienus": {
+        "mercantileSkill": "16",
+        "luck": "50"
+    },
+    "Uravasa Othrelas": {
+        "mercantileSkill": "6",
+        "luck": "50"
+    },
+    "Isa Raman": {
+        "mercantileSkill": "15",
+        "luck": "50"
+    },
+    "Volanaro": {
+        "mercantileSkill": "6",
+        "luck": "50"
+    },
+    "Kinther": {
+        "mercantileSkill": "41",
+        "luck": "50"
+    },
+    "Ohtesse": {
+        "mercantileSkill": "41",
+        "luck": "50"
+    },
+    "Orintur": {
+        "mercantileSkill": "7",
+        "luck": "50"
+    },
+    "Trayvond the Redguard": {
+        "mercantileSkill": "11",
+        "luck": "50"
+    },
+    "Alberic Litte": {
+        "mercantileSkill": "7",
+        "luck": "50"
+    },
+    "Athragar": {
+        "mercantileSkill": "6",
+        "luck": "50"
+    },
+    "Orag gra-Bargol": {
+        "mercantileSkill": "5",
+        "luck": "50"
+    },
+    "Borissean": {
+        "mercantileSkill": "13",
+        "luck": "50"
+    },
+    "Gaspar Stegine": {
+        "mercantileSkill": "8",
+        "luck": "50"
+    },
+    "Raminus Polus": {
+        "mercantileSkill": "18",
+        "luck": "50"
+    },
+    "Agata": {
+        "mercantileSkill": "6",
+        "luck": "50"
+    },
+    "Aron Verethi": {
+        "mercantileSkill": "6",
+        "luck": "50"
+    },
+    "Avrus Adas": {
+        "mercantileSkill": "6",
+        "luck": "50"
+    },
+    "Adrienne Berene": {
+        "mercantileSkill": "6",
+        "luck": "50"
+    },
+    "Druja": {
+        "mercantileSkill": "6",
+        "luck": "50"
+    },
+    "Sulinus Vassinus": {
+        "mercantileSkill": "16",
+        "luck": "50"
+    },
+    "Tumindil": {
+        "mercantileSkill": "6",
+        "luck": "50"
+    },
+    "Vigge the Cautious": {
+        "mercantileSkill": "6",
+        "luck": "50"
     }
 }
