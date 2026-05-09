@@ -4,7 +4,7 @@ WORKDIR /var/app
 
 COPY package.json package-lock.json /var/app/
 
-RUN npm install
+RUN npm ci
 
 COPY tsconfig.json merchants.json webpack.config.ts /var/app/
 
