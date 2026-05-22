@@ -2,7 +2,7 @@ import React, { useState } from 'react';
 import { createRoot } from 'react-dom/client';
 import '../site/styles.scss';
 import merchants from '../../merchants.json';
-import { useLocalStorage } from 'react-use';
+import { useLocalStorage } from 'usehooks-ts';
 
 const merchantsData = Object.entries(merchants).sort((lhs, rhs) => {
   if (lhs[0] < rhs[0]) return -1;
